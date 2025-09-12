@@ -1,2 +1,5 @@
 # MBA
-About MBA
+About MBA, classes, code etc.
+
+
+
